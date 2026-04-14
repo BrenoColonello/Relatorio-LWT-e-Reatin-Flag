@@ -495,4 +495,3 @@ Compreender esses mecanismos vai além de decorar parâmetros de funções — r
 
 **Breno Henrique & Caio Henrique  |  Sistemas Embarcados e IoT  |  Prof. Fabio Navarro  |  2026**
 
-**Breno Henrique | Caio Henrique**
