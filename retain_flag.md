@@ -85,6 +85,3 @@ void publicarRetain(float temp) {
 
 // Ao conectar, se já existir mensagem retida no tópico, o callback de subscribe receberá ela imediatamente.
 ```
-
----
-Resumo criado a partir do relatório principal sobre Retain Flag.

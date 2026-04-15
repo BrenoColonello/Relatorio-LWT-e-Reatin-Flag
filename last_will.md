@@ -76,5 +76,3 @@ client.connect("esp32-lwt-01", "aluno", "Aluno123", "exemplo/estufa/sensor-01/st
 client.publish("exemplo/estufa/sensor-01/status", "{\"status\":\"online\"}", true);
 ```
 
----
-Resumo criado a partir do relatório principal sobre LWT.
